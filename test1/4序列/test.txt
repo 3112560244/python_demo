@@ -1,0 +1,5 @@
+E:/编程/Python/test/test1/4序列/文件操作.py
+E:\编程\Python\test\venv\Scripts\python.exe
+Scripts\python.exe
+4
+5

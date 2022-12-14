@@ -1,0 +1,36 @@
+import re
+
+
+
+
+
+
+
+
+
+
+# str1 = input("请输入字符串1")
+# str2 = input("请输入字符串2")
+#
+# for i in str2:
+#     for j in str1:
+#         if i == j:
+#             str1 = str1.replace(i,'')
+#
+# print(str1)
+
+
+# str1 = input("请输入一个英文句子")
+#
+# dict1 = str1.split(' ')
+# print(dict1)
+# print(len(dict1))
+
+
+
+import time
+N = 1000
+for i in range(N):
+    print("进度:{0}%".format(round((i + 1) * 100 / N)))
+    # print("进度:{0}%".format(round((i + 1) * 100 / N)), end="\r")
+    time.sleep(0.01)
