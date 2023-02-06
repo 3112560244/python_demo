@@ -13,7 +13,10 @@ turtle.fd(150)
 turtle.fillcolor('white')
 # 左画圆
 turtle.circle(100)
-
+turtle.circle(200)
+turtle.circle(300)
+turtle.circle(400)
+turtle.circle(500)
 # 右画圆  90度
 turtle.circle(-100, 90)
 
